@@ -247,3 +247,7 @@ border: none;
 }
 
 }
+@media only screen and (max-width:280px){
+           .note-1{
+   display: none;
+}}
